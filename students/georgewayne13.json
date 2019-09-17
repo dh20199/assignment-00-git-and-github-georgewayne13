@@ -1,0 +1,14 @@
+{
+  "firstName": "Wayne",
+  "lastName": "George",
+  "nickName": "no nickename",
+  "privateName": true,
+  "picture": "https://raw.githubusercontent.com/dh20199/assignment-00-git-and-github-georgewayne13/master/images/georgewayne13.jpg",
+  "privatePicture": false,
+  "email": "wayne.george@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "georgewayne13",
+  "privateGithub": false,
+  "superpower" : "extremly computer illiterate",
+  "academicinterests": "History"
+}
